@@ -1,3 +1,5 @@
 [user]
 	email = matthias.ballarini@gmail.com
 	name = Matthias Ballarini
+[push]
+	default = simple
