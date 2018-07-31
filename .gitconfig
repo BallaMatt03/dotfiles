@@ -3,3 +3,7 @@
 	name = Matthias Ballarini
 [push]
 	default = simple
+[core]
+        editor = emacs -nw
+[pull]
+        rebase = true
